@@ -1,4 +1,4 @@
-# Naura — Build Your Aura
+# Naura
 
 Naura is a full-stack productivity web application designed to help users build discipline and consistency through structured task management and performance tracking.
 
